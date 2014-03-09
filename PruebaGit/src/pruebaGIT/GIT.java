@@ -7,7 +7,7 @@ public class GIT {
 public static void main(String[] args) {
 		
 		
-		System.out.println("mas modificaciones");
+		System.out.println("mas modificaciones6");
 		
 		}
 }
